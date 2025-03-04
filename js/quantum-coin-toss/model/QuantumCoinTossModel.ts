@@ -1,7 +1,7 @@
 // Copyright 2025, University of Colorado Boulder
 
 /**
- * TODO Describe this class and its responsibilities.
+ * TODO Describe this class and its responsibilities. see https://github.com/phetsims/quantum-measurement/issues/1
  *
  * @author John
  */
@@ -12,7 +12,7 @@ import { PhetioObjectOptions } from '../../../../tandem/js/PhetioObject.js';
 import quantumCoinToss from '../../quantumCoinToss.js';
 
 type SelfOptions = {
-  //TODO add options that are specific to QuantumCoinTossModel here
+  //TODO add options that are specific to QuantumCoinTossModel here, see https://github.com/phetsims/quantum-measurement/issues/1
 };
 
 type QuantumCoinTossModelOptions = SelfOptions & PickRequired<PhetioObjectOptions, 'tandem'>;
@@ -20,14 +20,14 @@ type QuantumCoinTossModelOptions = SelfOptions & PickRequired<PhetioObjectOption
 export default class QuantumCoinTossModel implements TModel {
 
   public constructor( providedOptions: QuantumCoinTossModelOptions ) {
-    //TODO
+    //TODO, see https://github.com/phetsims/quantum-measurement/issues/1
   }
 
   /**
    * Resets the model.
    */
   public reset(): void {
-    //TODO
+    //TODO, see https://github.com/phetsims/quantum-measurement/issues/1
   }
 
   /**
@@ -35,7 +35,7 @@ export default class QuantumCoinTossModel implements TModel {
    * @param dt - time step, in seconds
    */
   public step( dt: number ): void {
-    //TODO
+    //TODO, see https://github.com/phetsims/quantum-measurement/issues/1
   }
 }
 

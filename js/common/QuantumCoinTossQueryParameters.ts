@@ -11,7 +11,7 @@ import logGlobal from '../../../phet-core/js/logGlobal.js';
 import quantumCoinToss from '../quantumCoinToss.js';
 
 const SCHEMA_MAP = {
-  //TODO add schemas for query parameters
+  //TODO add schemas for query parameters, see https://github.com/phetsims/quantum-measurement/issues/1
 };
 
 const QuantumCoinTossQueryParameters = QueryStringMachine.getAll( SCHEMA_MAP );

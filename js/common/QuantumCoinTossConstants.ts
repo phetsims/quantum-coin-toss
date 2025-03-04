@@ -13,7 +13,7 @@ const QuantumCoinTossConstants = {
   SCREEN_VIEW_X_MARGIN: 15,
   SCREEN_VIEW_Y_MARGIN: 15
 
-  //TODO
+  //TODO see https://github.com/phetsims/quantum-measurement/issues/1
 };
 
 quantumCoinToss.register( 'QuantumCoinTossConstants', QuantumCoinTossConstants );

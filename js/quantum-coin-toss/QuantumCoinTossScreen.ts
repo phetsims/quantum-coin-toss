@@ -1,7 +1,7 @@
 // Copyright 2025, University of Colorado Boulder
 
 /**
- * TODO Describe this class and its responsibilities.
+ * TODO Describe this class and its responsibilities, see https://github.com/phetsims/quantum-measurement/issues/1
  *
  * @author John
  */
@@ -15,7 +15,7 @@ import QuantumCoinTossModel from './model/QuantumCoinTossModel.js';
 import QuantumCoinTossScreenView from './view/QuantumCoinTossScreenView.js';
 
 type SelfOptions = {
-  //TODO add options that are specific to QuantumCoinTossScreen here
+  //TODO add options that are specific to QuantumCoinTossScreen here, see https://github.com/phetsims/quantum-measurement/issues/1
 };
 
 type QuantumCoinTossScreenOptions = SelfOptions & ScreenOptions;
@@ -27,9 +27,9 @@ export default class QuantumCoinTossScreen extends Screen<QuantumCoinTossModel, 
     const options = optionize<QuantumCoinTossScreenOptions, SelfOptions, ScreenOptions>()( {
       name: QuantumCoinTossStrings.screen.nameStringProperty,
 
-      //TODO add default values for optional SelfOptions here
+      //TODO add default values for optional SelfOptions here, see https://github.com/phetsims/quantum-measurement/issues/1
 
-      //TODO add default values for optional ScreenOptions here
+      //TODO add default values for optional ScreenOptions here, see https://github.com/phetsims/quantum-measurement/issues/1
       backgroundColorProperty: QuantumCoinTossColors.screenBackgroundColorProperty
     }, providedOptions );
 

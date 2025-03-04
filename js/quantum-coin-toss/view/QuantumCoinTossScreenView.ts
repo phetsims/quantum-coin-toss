@@ -1,7 +1,7 @@
 // Copyright 2025, University of Colorado Boulder
 
 /**
- * TODO Describe this class and its responsibilities.
+ * TODO Describe this class and its responsibilities. see https://github.com/phetsims/quantum-coin-toss/issues/1
  *
  * @author John
  */
@@ -14,7 +14,7 @@ import quantumCoinToss from '../../quantumCoinToss.js';
 import QuantumCoinTossModel from '../model/QuantumCoinTossModel.js';
 
 type SelfOptions = {
- //TODO add options that are specific to QuantumCoinTossScreenView here
+ //TODO add options that are specific to QuantumCoinTossScreenView here, see https://github.com/phetsims/quantum-coin-toss/issues/1
 };
 
 type QuantumCoinTossScreenViewOptions = SelfOptions & ScreenViewOptions;
@@ -25,9 +25,9 @@ export default class QuantumCoinTossScreenView extends ScreenView {
 
     const options = optionize<QuantumCoinTossScreenViewOptions, SelfOptions, ScreenViewOptions>()( {
 
-      //TODO add default values for optional SelfOptions here
+      //TODO add default values for optional SelfOptions here, see https://github.com/phetsims/quantum-coin-toss/issues/1
 
-      //TODO add default values for optional ScreenViewOptions here
+      //TODO add default values for optional ScreenViewOptions here, see https://github.com/phetsims/quantum-coin-toss/issues/1
     }, providedOptions );
 
     super( options );
@@ -49,7 +49,7 @@ export default class QuantumCoinTossScreenView extends ScreenView {
    * Resets the view.
    */
   public reset(): void {
-    //TODO
+    //TODO, see https://github.com/phetsims/quantum-coin-toss/issues/1
   }
 
   /**
@@ -57,7 +57,7 @@ export default class QuantumCoinTossScreenView extends ScreenView {
    * @param dt - time step, in seconds
    */
   public override step( dt: number ): void {
-    //TODO
+    //TODO, see https://github.com/phetsims/quantum-coin-toss/issues/1
   }
 }
 
