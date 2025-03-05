@@ -15,11 +15,16 @@
     "runnable": true,
     "supportedBrands": [
       "phet",
+      "phet-io",
       "adapted-from-phet"
+    ],
+    "phetLibs": [
+      "quantum-measurement"
     ],
     "supportsOutputJS": true,
     "simFeatures": {
-      "supportsDynamicLocale": true
+      "supportsDynamicLocale": true,
+      "supportsSound": true
     }
   }
 }

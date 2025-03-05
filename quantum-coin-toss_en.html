@@ -38,11 +38,16 @@
         "runnable": true,
         "supportedBrands": [
           "phet",
+          "phet-io",
           "adapted-from-phet"
+        ],
+        "phetLibs": [
+          "quantum-measurement"
         ],
         "supportsOutputJS": true,
         "simFeatures": {
-          "supportsDynamicLocale": true
+          "supportsDynamicLocale": true,
+          "supportsSound": true
         }
       }
     };
@@ -55,6 +60,10 @@
       {
         "repo": "quantum-coin-toss",
         "requirejsNamespace": "QUANTUM_COIN_TOSS"
+      },
+      {
+        "repo": "quantum-measurement",
+        "requirejsNamespace": "QUANTUM_MEASUREMENT"
       },
       {
         "repo": "scenery-phet",
