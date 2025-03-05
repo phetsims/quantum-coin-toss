@@ -9,6 +9,7 @@
 import Sim, { SimOptions } from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import CoinsScreen from '../../quantum-measurement/js/coins/CoinsScreen.js';
+import QuantumMeasurementConstants from '../../quantum-measurement/js/common/QuantumMeasurementConstants.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import QuantumCoinTossStrings from './QuantumCoinTossStrings.js';
 import './common/QuantumCoinTossQueryParameters.js';
@@ -18,24 +19,11 @@ import './common/QuantumCoinTossQueryParameters.js';
 simLauncher.launch( () => {
   const titleStringProperty = QuantumCoinTossStrings[ 'quantum-coin-toss' ].titleStringProperty;
   const screens = [
-    // new QuantumCoinTossScreen( { tandem: Tandem.ROOT.createTandem( 'quantumCoinTossScreen' ) } )
     new CoinsScreen( Tandem.ROOT.createTandem( 'coinsScreen' ) )
   ];
   const options: SimOptions = {
-
-    //TODO fill in credits, all of these fields are optional, see joist.CreditsNode, see https://github.com/phetsims/quantum-measurement/issues/1
-    credits: {
-      leadDesign: '',
-      softwareDevelopment: '',
-      team: '',
-      contributors: '',
-      qualityAssurance: '',
-      graphicArts: '',
-      soundDesign: '',
-      thanks: ''
-    }
+    credits: QuantumMeasurementConstants.CREDITS
   };
-
   const sim = new Sim( titleStringProperty, screens, options );
   sim.start();
 } );
