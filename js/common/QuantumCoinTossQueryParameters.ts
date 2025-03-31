@@ -11,14 +11,9 @@ import logGlobal from '../../../phet-core/js/logGlobal.js';
 import { QueryStringMachine } from '../../../query-string-machine/js/QueryStringMachineModule.js';
 import quantumCoinToss from '../quantumCoinToss.js';
 
-const SCHEMA_MAP = {
+const QuantumCoinTossQueryParameters = QueryStringMachine.getAll( {
   //TODO add schemas for query parameters, see https://github.com/phetsims/quantum-measurement/issues/1
-};
-
-const QuantumCoinTossQueryParameters = QueryStringMachine.getAll( SCHEMA_MAP );
-
-// The schema map is a read-only part of the public API, in case schema details (e.g. validValues) are needed elsewhere.
-QuantumCoinTossQueryParameters.SCHEMA_MAP = SCHEMA_MAP;
+} );
 
 quantumCoinToss.register( 'QuantumCoinTossQueryParameters', QuantumCoinTossQueryParameters );
 
