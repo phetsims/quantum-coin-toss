@@ -27,5 +27,8 @@
       "supportsInteractiveDescription": true,
       "supportsSound": true
     }
+  },
+  "phet-io": {
+    "compareDesignedAPIChanges": true
   }
 }
