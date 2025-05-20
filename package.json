@@ -26,7 +26,8 @@
       "supportsDynamicLocale": true,
       "supportsInteractiveDescription": true,
       "supportsSound": true
-    }
+    },
+    "published": true
   },
   "phet-io": {
     "compareDesignedAPIChanges": true
