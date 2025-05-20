@@ -1,5 +1,5 @@
 {
-  "comment": "# quantum-coin-toss 1.0.0-rc.1 Mon May 12 2025 13:46:39 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# quantum-coin-toss 1.0.0-rc.1 Tue May 20 2025 11:48:00 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "f6d41b399ad32df2a00ab4b329981be0c574d77a",
     "branch": "HEAD"
@@ -41,8 +41,8 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "a064eabaa71823fa8d855aec3bf43f6960f30161",
-    "branch": "HEAD"
+    "sha": "23b86c87a92cb3b4df910e2be6d84bde640f6135",
+    "branch": "quantum-coin-toss-1.0"
   },
   "phet-io-wrappers": {
     "sha": "4169c3e77fcbc5a9d59c327b5be2c914e8815170",
@@ -57,12 +57,12 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "1c3132409d5538333df3c15d0db72411f36fd206",
+    "sha": "6d18db9f59efd62c6cc264ec03e09be032c17e6e",
     "branch": "1.0"
   },
   "quantum-measurement": {
-    "sha": "0c8a2389f85e52678d7844dd1d62be6d11c3dbde",
-    "branch": "HEAD"
+    "sha": "5b7a214f677789942ac113615dfac71c62e6f4e3",
+    "branch": "quantum-coin-toss-1.0"
   },
   "query-string-machine": {
     "sha": "145690b54d129fa8343b746ed8fdc0b78e706711",
