@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "bfd2efaceeadd25f56de7262e376d2110815a219",
+    "sha": "e581db2728943114b83b75277bdac76c2bb74621",
     "branch": "HEAD"
   },
   "dot": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "10fc48d93c97268603bca33778a5ef5ae6a4cbe2",
+    "sha": "1c3132409d5538333df3c15d0db72411f36fd206",
     "branch": "1.0"
   },
   "quantum-measurement": {
