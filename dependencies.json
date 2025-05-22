@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "3bc64c9bd37271e9c4677af2fa2ab9a928448466",
+    "sha": "181c2aecf4f2aca5a469dd906208f465fe0da2c2",
     "branch": "HEAD"
   },
   "kite": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "1324d1118dda9ada0471432a7047bdc690cd55ea",
+    "sha": "07cfe9ef5caad8ea4c9620c4ef3adbce2654ec7b",
     "branch": "1.0"
   },
   "quantum-measurement": {
