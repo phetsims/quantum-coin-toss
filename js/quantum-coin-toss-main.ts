@@ -15,7 +15,6 @@ import QuantumMeasurementConstants from '../../quantum-measurement/js/common/Qua
 import QuantumMeasurementPreferencesNode from '../../quantum-measurement/js/common/view/QuantumMeasurementPreferencesNode.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import QuantumCoinTossStrings from './QuantumCoinTossStrings.js';
-import './common/QuantumCoinTossQueryParameters.js';
 
 // Initialize the preferences.  This supports variations of the sim with different preference configurations.
 QuantumMeasurementPreferences.initialize( false );
