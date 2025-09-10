@@ -1,5 +1,5 @@
 {
-  "comment": "# quantum-coin-toss 1.0.0 Tue May 20 2025 14:06:22 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# quantum-coin-toss 1.0.1-rc.2 Wed Sep 10 2025 07:32:26 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "f6d41b399ad32df2a00ab4b329981be0c574d77a",
     "branch": "HEAD"
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "5665555ece11eb39f2097dda595321f7cd73fbf5",
+    "sha": "dee61931332e8bedd4ccae3337716463f5d89e15",
     "branch": "1.0"
   },
   "quantum-measurement": {
