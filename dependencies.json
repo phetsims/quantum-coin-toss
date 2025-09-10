@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "07cfe9ef5caad8ea4c9620c4ef3adbce2654ec7b",
+    "sha": "5665555ece11eb39f2097dda595321f7cd73fbf5",
     "branch": "1.0"
   },
   "quantum-measurement": {
@@ -73,7 +73,7 @@
     "branch": "HEAD"
   },
   "scenery-phet": {
-    "sha": "2b6c33d1f68152a3fd72f9b34623e3bbda8f7f11",
+    "sha": "083ee70e3330a1e5e204d8f8810db8999570defb",
     "branch": "HEAD"
   },
   "sherpa": {
