@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "5f06466342e32b3312422d2d95fef4da2bb344fb",
+    "sha": "98d0b3393991dcba3fc453b8ee07241ae251ba80",
     "branch": "HEAD"
   },
   "phetmarks": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "114aa8c30f850325bb8dbaa8dc4846ecc06adbe0",
+    "sha": "7ae701db1e772b976c752a6deabbb686be0b978c",
     "branch": "1.0"
   },
   "quantum-measurement": {
