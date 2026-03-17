@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "b85ab5d6477f19ab753eda9753744bc2fceb0d6d",
+    "sha": "5e46d7c36ef0cf0db07b9765d48f32b31bcfad39",
     "branch": "HEAD"
   },
   "phet-core": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "5d773fa163b128487f94b963d6767b50fdb38609",
+    "sha": "d32eb079fbcfdabe7293f4a173069659a7835959",
     "branch": "1.0"
   },
   "quantum-measurement": {
