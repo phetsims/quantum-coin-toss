@@ -22,6 +22,4 @@ type StringsType = {
 
 const QuantumCoinTossStrings = getStringModule( 'QUANTUM_COIN_TOSS' ) as StringsType;
 
-quantumCoinToss.register( 'QuantumCoinTossStrings', QuantumCoinTossStrings );
-
 export default QuantumCoinTossStrings;

@@ -25,5 +25,4 @@ const QuantumCoinTossColors = {
   } )
 };
 
-quantumCoinToss.register( 'QuantumCoinTossColors', QuantumCoinTossColors );
 export default QuantumCoinTossColors;
