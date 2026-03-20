@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "2ecc4422119bafa9b4558ebc62d1b61807fc9a32",
+    "sha": "b576c1046462616695995f8b8d940d0bfb5feb80",
     "branch": "HEAD"
   },
   "dot": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "5e46d7c36ef0cf0db07b9765d48f32b31bcfad39",
+    "sha": "e7430670f35de836d608f3a92f71391451818356",
     "branch": "HEAD"
   },
   "phet-core": {
@@ -57,7 +57,7 @@
     "branch": "HEAD"
   },
   "quantum-coin-toss": {
-    "sha": "205eea5897948ceb65ea955cc9eb01217ff57587",
+    "sha": "816677034ee989ff6a8cbb9afa84e90bbc467afc",
     "branch": "1.0"
   },
   "quantum-measurement": {
